@@ -1,8 +1,8 @@
 services:
-   api:
-       build:
+    api:
+        build:
             context: .
             dockerfile: dockerfile
-       ports:
-           - 80:80
-      restart: always
+        ports:
+            - 80:80
+        restart: always
