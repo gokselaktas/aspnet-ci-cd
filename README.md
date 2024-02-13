@@ -14,16 +14,16 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 1. Clone the repo
-  (<br>)git clone https://github.com/gokselaktas/aspnet-ci-cd.git
+  >git clone https://github.com/gokselaktas/aspnet-ci-cd.git
 
 3. Navigate to the cloned directory
-   <br>cd aspnet-ci-cd
+   >cd aspnet-ci-cd
 
 4. Restore dependencies
-  dotnet restore
+   >dotnet restore
 
 5. Build the project
-  dotnet build
+  >dotnet build
    
    
 
