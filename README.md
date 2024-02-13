@@ -13,8 +13,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-1. Clone the repo
-  >git clone https://github.com/gokselaktas/aspnet-ci-cd.git
+1. Clone the repo>git clone https://github.com/gokselaktas/aspnet-ci-cd.git
 
 3. Navigate to the cloned directory
    >cd aspnet-ci-cd
