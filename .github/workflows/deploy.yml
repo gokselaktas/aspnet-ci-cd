@@ -16,4 +16,4 @@ jobs:
         username: ${{ secrets.SSH_USERNAME }}
         key: ${{ secrets.SSH_KEY }}
         port: ${{ secrets.SSH_PORT }}
-        script: cd /home/debuser/ansible && git checkout prod  && git pull && bash start.sh
+        script: cd /home/debuser/aspnet-ci-cd && git checkout prod  && git pull && bash start.sh
