@@ -8,7 +8,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-- [.NET SDK](https://dotnet.microsoft.com/download) compatible with the project (check `global.json` for version)
+- [.NET SDK](https://dotnet.microsoft.com/download)
 - [Git](https://git-scm.com/downloads)
 
 ### Installation
